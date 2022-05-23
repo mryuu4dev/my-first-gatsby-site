@@ -14,5 +14,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-mdx', // transformer plugin
+    'gatsby-transformer-sharp', 
   ],
 }
